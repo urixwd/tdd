@@ -7,7 +7,7 @@ describe('simple_test', function(){
     it('"a should be equal to b"', function(){
         expect(a).toBe(b);
     });
-    it('"a should be equal to c"', function(){
+    it('"a should be equal to c?"', function(){
         expect(a).toBe(c);
     });
 });
